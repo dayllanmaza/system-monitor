@@ -24,7 +24,7 @@ class System {
   std::vector<Process> processes_ = {};
   std::string kernel_ =
       "";  // ASK, what's the default value when you define a variable/attribute
-  std::string os_name_;
+  std::string osname_;
 };
 
 #endif
